@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
 Change from main
 Change from feature branch
 feature-improvement
+=======
+Message from feature branch
+>>>>>>> parent of d5d28c2 (Change message in feazure-improvement)
